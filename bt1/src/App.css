@@ -1,0 +1,29 @@
+.btn,
+.wrapper_table {
+    width: 268px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.btn{
+    display: flex;
+    justify-content:space-between;
+    margin-top:20px;
+}
+
+.btn_item{
+    height:40px;
+    width: 40px;
+}
+
+.table{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.table_item {
+    border: 2px solid #0ea5e9;
+    width: 85px;
+    height: 85px;
+    line-height: 85px;
+    text-align: center;
+}

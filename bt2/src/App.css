@@ -1,0 +1,38 @@
+.app {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 5%;
+  background-color: #ffe8a8;
+}
+.heading {
+  color: #57c193;
+}
+.input_list {
+  outline: none;
+}
+.btn_add {
+  color: #fff;
+  background-color: #57c193;
+  border: none;
+  width: 50px;
+  height: 20px;
+  margin-left: 4px;
+}
+
+ul {
+  list-style: none;
+  background-color: #59727f;
+  width: 50%;
+  margin-left: 50%;
+  padding-left: 0;
+  transform: translateX(-50%);
+  border-radius: 8px;
+}
+
+li {
+  line-height: 30px;
+}
+
+span {
+  cursor: pointer;
+}
